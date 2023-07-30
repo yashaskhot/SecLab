@@ -117,7 +117,7 @@ void printString(string S, int N)
 int main()
 {
     // Given string
-    // string S = "SLAZ TLLA AVUPNOA HA AOL WHYR";//lets meet t the park tonight
+    // string S = "SLAZ TLLA AVUPNOA HA AOL WHYR";//lets meet at the park tonight
     string S = "IWOO XQJG BKN HAYPQNAO PKZWU"; // mass bunk for lectures today lol
     int N = S.length();
 
